@@ -1,8 +1,10 @@
-# Code-CLI
-How to open Visual Studio Code from the command line with 'code.' ?
+# VS Code CLI
+How to open Visual Studio Code from the command line with 'code .' ?
 
+czyli jak odpalic VS Code z terminala przy użyciu komendy: `code .`
 
-⚡️ Najprostsze rozwiązenie:<br/><br/>
+⚡️ Najprostsze rozwiązenie:
+
 **macOS:**
 
 1. Pobieramy, instalujemy i otwieramy [Visual Studio Code](https:/Wide/code.visualstudio.com)
