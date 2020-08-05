@@ -2,7 +2,7 @@
 How to open Visual Studio Code from the command line with 'code.' ?
 
 
-⚡️ Najprostsze rozwiązenie:<br/>
+⚡️ Najprostsze rozwiązenie:<br/><br/>
 **macOS:**
 
 1. Pobieramy, instalujemy i otwieramy [Visual Studio Code](https:/Wide/code.visualstudio.com)
@@ -12,4 +12,4 @@ How to open Visual Studio Code from the command line with 'code.' ?
 
 
 ### Tutorial na YT
-[Film](https://www.youtube.com/watch?v=uKCiAA4AJcI) przygotowany przez Ahmad Awais
+[Video](https://www.youtube.com/watch?v=uKCiAA4AJcI) przygotowane przez [Ahmad Awais](https://github.com/ahmadawais)
