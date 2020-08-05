@@ -1,4 +1,4 @@
-# Visual studio Code CLI
+# Visual Studio Code call via CLI (Command Line Interface)
 How to open Visual Studio Code from the command line with `code .` ?
 
 czyli 🇵🇱 jak odpalić VS Code z terminala przy użyciu komendy: `code .`
